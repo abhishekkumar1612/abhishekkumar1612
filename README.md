@@ -12,8 +12,7 @@ Email Me 👉 ✉️ **akabhikumar91@gmail.com** For Project or Anything Else. �
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=abhishekkumar1612&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/> 
-![](https://nirzak-streak-stats.vercel.app/?user=abhishekkumar1612&theme=highcontrast&hide_border=false)<br/>
-<img align="right" width="400" src="https://user-images.githubusercontent.com/95495584/194896028-1562b5f3-4c14-4388-a999-ea664af3c108.gif?raw=true">
+![](https://nirzak-streak-stats.vercel.app/?user=abhishekkumar1612&theme=highcontrast&hide_border=false)<br/> <img align="right" width="400" src="https://user-images.githubusercontent.com/95495584/194896028-1562b5f3-4c14-4388-a999-ea664af3c108.gif?raw=true">
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkumar1612&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Snake Game Repo View -->

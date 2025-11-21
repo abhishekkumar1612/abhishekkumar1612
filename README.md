@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif?raw=true)
 <h1  align="center"> 💫 Hi 👋, I’m Abhishek Kumar👋</h1>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekkumar1612&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekkumar1612" /> </p>
 <img align="right" width="400"  src="https://user-images.githubusercontent.com/95495584/194896028-1562b5f3-4c14-4388-a999-ea664af3c108.gif?raw=true" >
 
 <h3 align="left">👨🏻‍💻 About Me:</h3>
